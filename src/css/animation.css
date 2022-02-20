@@ -1,0 +1,21 @@
+@keyframes animation-name {
+    90% { transform: none; }
+    95% { transform: scaleY(0.1); }
+}
+
+h2{
+    transition: 1s;
+    animation: changeColor 3s ease-in-out infinite;
+
+}
+h2:hover{
+    color: white;
+    transform: rotate(35deg);}
+@keyframes animation-name {
+    0%{
+        background: yellow;
+    }
+    100%{
+        background: blue;
+    }
+}

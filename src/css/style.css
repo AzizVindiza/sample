@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&display=swap');
+
+/*https://fonts.google.com/*/
+/*шрифты*/
+/*font*/
+/*font-family: 'Lato', sans-serif;*/
+/*container стили*/
+/*.header__container{*/
+/*    max-width: 1270px;*/
+/*    margin: auto;*/
+/*}*/
+/*картика на фон*/
+/*background: url("") center/cover no-repeat;*/
+.container{
+    max-width: 1260px;
+    margin: auto;
+}
+body {
+    width: 100vw;
+    height: 100vh;
+}
+/*header*/
